@@ -30,6 +30,7 @@ Features 3 to 60, each variable below has a corresponding y and z components in 
 12. **tBodyGyroJerk.std.x**     standard deviation body Gyro Jerk on the x dimension
 
 Features 33 to 42:
+
 13. **tBobyAccMag.mean**        mean total body acceleration magnitude
 14. **tBodyAccMag.std**         standard deiviation total body acceleration magitude.
 15. **tGravityAccMag.mean**     mean total gravity acceleration magnitude
@@ -42,6 +43,7 @@ Features 33 to 42:
 22. **tBodyGyroJerkMag.std**    standard deviation total body Gyro Jerk magitud
 
 Features 43 to 60, each variable below has a corresponding y and z components in additional to x:
+
 23. **fBodyAcc.mean.x**         same as total but f denotes frequency
 24. **fBodyAcc.std.x**          same as total but f denotes frequency
 25. **fBodyAccJerk.mean.x**     same as total but f denotes frequency
@@ -50,6 +52,7 @@ Features 43 to 60, each variable below has a corresponding y and z components in
 28. **fBodyGyro.std.x**         same as total but f denotes frequency
 
 Features 61 to 68:
+
 29. **fBodyAccMag.mean**        same as total but f denotes frequency
 30. **fBodyAccMag.std**         same as total but f denotes frequency
 31. **fBodyAccJerkMag.mean**    same as total but f denotes frequency
