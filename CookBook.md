@@ -62,4 +62,5 @@ Features 61 to 68:
 35. **fBodyGyroJerkMag.mean**   same as total but f denotes frequency
 36. **fBodyGyroJerkMag.std**    same as total but f denotes frequency
 
-
+#Data Not Included in Tidy Data#
+Please visit [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and look at feature_info.txt to see a list of all the features in the raw dataset.
